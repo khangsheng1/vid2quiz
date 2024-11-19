@@ -10,8 +10,3 @@ This Python-based project allows users to download videos from any URL, transcri
 - **Quiz Generator**: Create a 10-question quiz from the transcription with an auto-grading HTML interface.
 - **User-Friendly GUI**: Built with Tkinter for an intuitive experience.
 - **Customizable**: Designed for educational use cases, ideal for studying tutorials or preparing for certifications.
-
-### Setup
-#### Prerequisites
-- Python 3.11 or 3.10 installed on your system.
-- `pip` installed (comes with Python).
